@@ -22,3 +22,6 @@ options:
 schema:
   mode: list(rtsp|mqtt|dual)
   log: list(info|warn|error|debug)
+
+resources:
+  cpu: 0.2
